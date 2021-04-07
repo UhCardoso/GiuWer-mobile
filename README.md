@@ -14,7 +14,7 @@ Brincadeiras a parte, bora para as features!
 - 1- Antes de tudo você deverá ter o [Nodejs](https://nodejs.org) instalado na sua máquina.
 - 2- Também instale o [Expo-cli](https://docs.expo.io/workflow/expo-cli/)
 - 2- Abra o seu terminal e dê o comando `git clone https://github.com/UhCardoso/GiuWer-mobile.git`
-- 3- Dê o comando `cd giulen-mobile`
+- 3- Dê o comando `cd GiuWer-mobile`
 - 4- Dê o comando `npm install`
 - 5- execute o programa com o comando `expo start`
 
